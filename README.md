@@ -9,4 +9,4 @@ My Languages and Tools:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludo-Boa&theme=tokyonight)
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludo-Boa&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludo-Boa&show_icons=true&theme=tokyonight)
