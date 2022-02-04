@@ -7,4 +7,4 @@
 
 Languages and Tools:
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludo-Boa&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludo-Boa&theme=tokyonight)
