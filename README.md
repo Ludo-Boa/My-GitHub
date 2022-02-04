@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Ludo Boa.
+### Hi there 👋, I'm Ludo.
 
-I'm a web developper since 5 years.
+I'm web developper since 5 years.
 
 ## Languages and Tools:
 
@@ -8,8 +8,8 @@ I'm a web developper since 5 years.
 My Languages and Tools:
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludo-Boa&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludo-Boa&langs_count=10&theme=tokyonight)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludo-Boa&show_icons=true&count_private=true&theme=tokyonight)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ludo-Boa&repo=disquaire )](https://github.com/Ludo-Boa/disquaire )
+
