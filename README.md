@@ -7,7 +7,7 @@ I'm web developper since 5 years.
 
 My Languages and Tools:
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludo-Boa&langs_count=10&theme=tokyonight)
