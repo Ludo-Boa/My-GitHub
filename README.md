@@ -2,6 +2,15 @@
 
 I'm web developper since 5 years.
 
+
+## Skills
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
 ## Languages and Tools:
 
 
