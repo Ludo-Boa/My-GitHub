@@ -1,4 +1,4 @@
-# Hi, I'm Ludo. I'm a web developper since 2016.
+# Hi, I'm Ludo. 
 
 ## My tools
 
